@@ -1,7 +1,7 @@
 # MicroPay
 【个人微信支付 无需资质】MicroPay
 
-采用OCR方式 Tesseract引擎，使用前请前往https://github.com/UB-Mannheim/tesseract/wiki下载并安装
+采用OCR方式 Tesseract引擎，使用前请前往[Tesseract的github](https://github.com/UB-Mannheim/tesseract/wiki)下载并安装
 
 （默认地址为 C:/Program Files (x86)/Tesseract-OCR 如果改变安装地址请更改main.js内ocrpath的值）
 
@@ -13,7 +13,7 @@
 
 使用结果：
 
-[小破站视频xd](player.bilibili.com/player.html?aid=795608656&bvid=BV18C4y1H7FU&cid=186111768&page=1)
+[小破站视频xd](https://player.bilibili.com/player.html?aid=795608656&bvid=BV18C4y1H7FU&cid=186111768&page=1)
 
 --------
 使用方法：
@@ -61,3 +61,7 @@ node main.js
 然后...如果你运行这给命令出了问题，请看[这里](https://blog.csdn.net/qq_29712995/article/details/79094433)
 
 然后把这个网站映射出去就可以啦~
+
+
+另外...如果想做自己的回调，可以自行更改main.js内onpay函数，不要删掉原来的代码，在try{后面添加就行啦
+
