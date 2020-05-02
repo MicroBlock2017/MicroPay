@@ -13,8 +13,7 @@
 
 使用结果：
 
-<iframe src="//player.bilibili.com/player.html?aid=795608656&bvid=BV18C4y1H7FU&cid=186111768&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+[小破站视频xd](player.bilibili.com/player.html?aid=795608656&bvid=BV18C4y1H7FU&cid=186111768&page=1)
 
 --------
 使用方法：
