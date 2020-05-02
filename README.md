@@ -11,6 +11,11 @@
 
 建议使用虚拟机哦
 
+使用结果：
+
+<iframe src="//player.bilibili.com/player.html?aid=795608656&bvid=BV18C4y1H7FU&cid=186111768&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 --------
 使用方法：
 
@@ -38,7 +43,7 @@
 
 什么？怎么运行？
 
-首先，在![这个网站](https://nodejs.org/zh-cn/download/)下一个nodejs（镜像站，比较快，官网的也可以）
+首先，在[这个网站](https://nodejs.org/zh-cn/download/)下一个nodejs（镜像站，比较快，官网的也可以）
 
 （别下错了啊，windows msi）
 
@@ -54,6 +59,6 @@ node main.js
 
 对了，你还需要用你的二维码图片替换website内的qrcode.png，不然就变成给我付款啦~
 
-然后...如果你运行这给命令出了问题，请看![这里](https://blog.csdn.net/qq_29712995/article/details/79094433)
+然后...如果你运行这给命令出了问题，请看[这里](https://blog.csdn.net/qq_29712995/article/details/79094433)
 
 然后把这个网站映射出去就可以啦~
